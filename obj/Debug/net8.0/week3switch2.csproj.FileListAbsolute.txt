@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\week3switch2\week3switch2\bin\Debug\net8.0\week3switch2.exe
+C:\Users\Lenovo\source\repos\week3switch2\week3switch2\bin\Debug\net8.0\week3switch2.deps.json
+C:\Users\Lenovo\source\repos\week3switch2\week3switch2\bin\Debug\net8.0\week3switch2.runtimeconfig.json
+C:\Users\Lenovo\source\repos\week3switch2\week3switch2\bin\Debug\net8.0\week3switch2.dll
+C:\Users\Lenovo\source\repos\week3switch2\week3switch2\bin\Debug\net8.0\week3switch2.pdb
+C:\Users\Lenovo\source\repos\week3switch2\week3switch2\obj\Debug\net8.0\week3switch2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\week3switch2\week3switch2\obj\Debug\net8.0\week3switch2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\week3switch2\week3switch2\obj\Debug\net8.0\week3switch2.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\week3switch2\week3switch2\obj\Debug\net8.0\week3switch2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\week3switch2\week3switch2\obj\Debug\net8.0\week3switch2.dll
+C:\Users\Lenovo\source\repos\week3switch2\week3switch2\obj\Debug\net8.0\refint\week3switch2.dll
+C:\Users\Lenovo\source\repos\week3switch2\week3switch2\obj\Debug\net8.0\week3switch2.pdb
+C:\Users\Lenovo\source\repos\week3switch2\week3switch2\obj\Debug\net8.0\week3switch2.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\week3switch2\week3switch2\obj\Debug\net8.0\ref\week3switch2.dll
